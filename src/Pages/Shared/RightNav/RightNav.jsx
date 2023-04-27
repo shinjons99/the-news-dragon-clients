@@ -24,6 +24,7 @@ const RightNav = () => {
       </div>
       <QZone></QZone>
       <div>
+        <h4>Create an Amazing Newspaper</h4>
         <img src={bg} alt="" />
       </div>
     </div>
